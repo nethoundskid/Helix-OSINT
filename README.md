@@ -1,4 +1,4 @@
-# HELIX OSINT v2.0
+# HELIX OSINT 
 
 > A fast, lightweight, and modular OSINT (Open-Source Intelligence) reconnaissance toolkit built with Python.
 
