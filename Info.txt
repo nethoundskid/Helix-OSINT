@@ -1,0 +1,22 @@
+HELIX OSINT INFO
+
+Features:
+• GitHub OSINT
+• Username hunting
+• Domain recon
+• IP geolocation
+• Discord server analysis
+• Telegram lookup
+• Email OSINT
+• Reddit & Hacker News
+• Keybase proofs
+• NPM & PyPI package analysis
+• JSON report export
+
+Requirements:
+
+Python 3.10+
+requests
+rich
+
+Educational and authorized security research only.
